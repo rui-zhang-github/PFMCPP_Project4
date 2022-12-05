@@ -620,7 +620,6 @@ int main()
     ft /= 0;
     std::cout << ft << std::endl;
     
-    
     std::cout << "New value of dt = dt / 0 = ";;
     dt /= 0;
     std::cout << dt << std::endl;
